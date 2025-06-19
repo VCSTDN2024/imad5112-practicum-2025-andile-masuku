@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="horizontal"
     android:gravity="center"
+    android:background="@drawable/last"
     tools:context=".playlist_screen">
 
     <androidx.cardview.widget.CardView
@@ -36,6 +37,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="8dp"
                     android:layout_weight="1"
+                    android:backgroundTint="@color/skyblue"
                     android:text="List All" />
 
                 <Button
@@ -44,6 +46,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginStart="8dp"
                     android:layout_weight="1"
+                    android:backgroundTint="@color/cobalt"
                     android:text="Ratings" />
 
             </LinearLayout>
@@ -62,6 +65,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="16dp"
+                android:backgroundTint="@color/navy"
                 android:text="Back to Main" />
 
             <Button
@@ -70,6 +74,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="16dp"
+                android:backgroundTint="@color/sapphire"
                 android:text="Exit" />
 
         </LinearLayout>
