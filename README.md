@@ -44,12 +44,7 @@ FEATURE 1: ADD BUTTON to add songs artist ratings and comments to the playlist
 FEATURE 2: VIEW BUTTON to take the user to the display screen
 FEATURE 3: EXIT BUTTON to exit the App
 
-THIRD SCREEN 
 
-
-
-
- 
 
 SCREENSHOTS
 
@@ -58,17 +53,6 @@ SCREENSHOTS
 
 SCREENSHOT 1:  This is the welcoming screen where its function is to take the user to the next screen or to exit the app
 
-
-
-SCREENSHOT 2:  This is the Questioning screen where its function is to ask the user random questions that have been set out and the user must determine whether the answer is true or false and the grey box displays whether the user answers the question correctly or not. As for the next button this allows the user to go to the next question and to the score screen. The Back button is to take the user back to the starting screen.
-
- ![image](https://github.com/user-attachments/assets/a4180976-8b2d-4bf3-ade8-61a1a02eb6fa)
-
-SCREENSHOT 3:  This is the score screen where the score that the user got is displayed. This shows them where they went wrong and the feedback of how they played. The review button is to take them to a new screen to review what they got.
- 
- ![image](https://github.com/user-attachments/assets/e0e425b1-33c5-467b-9c49-2148e126fdf0)
-
-SCREENSHOT 4: This is the last screen the review screen. This is where the answers are being revealed to the user to show them where they went wrong. And there are also given two option on whether they want to play again or if they just want to exit the game.
 
 These features aim to make the best of learning and to make learning fun for the user.
 
